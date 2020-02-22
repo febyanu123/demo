@@ -4,7 +4,7 @@
 </head>
 <body>
 	<h1>Welcome to the world of  technologies</h1>
-	<img src="C:\Users\PL1889\Desktop\rose.webp" alt="rose"/>
+	<img src="C:\Users\PL1889\Desktop\website.jpg" alt="teddy"/>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
