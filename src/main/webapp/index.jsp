@@ -3,7 +3,8 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World!</h1>
+	<h1>Welcome to the world of  technologies</h1>
+	<img src="C:\Users\PL1889\Desktop\rose.webp"/>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
